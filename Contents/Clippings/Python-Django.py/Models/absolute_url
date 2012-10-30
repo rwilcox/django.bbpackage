@@ -1,0 +1,3 @@
+#INDENT#@permalink
+def get_absolute_url(self):
+	<#pass#>
